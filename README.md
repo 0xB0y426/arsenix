@@ -18,4 +18,6 @@ Win + r
 
 Then, open the file sys.dat with Notepad to view the logs.
 
+Antivirus and EDR detect it as legitimate software, so there is no need to worry.
+
 :)
