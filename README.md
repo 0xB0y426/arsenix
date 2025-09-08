@@ -10,6 +10,9 @@ To see the logs, use:
 
 ``
 Win + r
+``
+
+``
 %APP%DATA
 ``
 
